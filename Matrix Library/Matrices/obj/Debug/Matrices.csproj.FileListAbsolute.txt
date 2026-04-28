@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive\Рабочий стол\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\User\OneDrive\Рабочий стол\Matrices\bin\Debug\Matrices.exe
+C:\Users\User\OneDrive\Рабочий стол\Matrices\bin\Debug\Matrices.pdb
+C:\Users\User\OneDrive\Рабочий стол\Matrices\bin\Debug\Vectors.pdb
+C:\Users\User\OneDrive\Рабочий стол\Matrices\obj\Debug\Matrices.csproj.Up2Date
+C:\Users\User\OneDrive\Рабочий стол\Matrices\obj\Debug\Matrices.exe
+C:\Users\User\OneDrive\Рабочий стол\Matrices\obj\Debug\Matrices.pdb
